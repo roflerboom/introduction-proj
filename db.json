@@ -11,6 +11,12 @@
       "day": "f",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "ууу",
+      "day": "ууу",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
