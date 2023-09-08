@@ -1,9 +1,15 @@
 {
   "tasks": [
     {
-      "text": "text",
-      "day": "mon",
+      "text": "eeeqqq",
+      "day": "qweqwe",
       "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "ууу",
+      "day": "ууу",
+      "reminder": false,
       "id": 5
     }
   ]
